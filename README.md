@@ -1,4 +1,4 @@
-# github-badges
+# HTB-badges
 
 https://academy.hackthebox.com/achievement/badge/87bf264f-35b0-11f0-bcfd-bea50ffe6cb4
 
